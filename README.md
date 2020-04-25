@@ -14,7 +14,7 @@ allprojects {
 }
 	
 dependencies {
-    implementation 'com.github.guanzhen-yun:GodRefreshLayout:Tag'
+    implementation 'com.github.guanzhen-yun:GodRefreshLayout:V1.0.0'
 }
 
 ~~~
